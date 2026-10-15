@@ -1,0 +1,10 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
